@@ -1,4 +1,4 @@
 # projectEuler
 My solutions to some projecteuler.net problems. Some are stubs of possible solutions, some are complete, some are only early ideas.
 
-The code is epurated of links or number of the problem, in an attempt to stay as close as possible to the spirit of website policy.
+Each file is named with the base32 encoding of the string representing the number of the problem, for reference, according to the website policy of not publishing the solutions.
